@@ -2,7 +2,7 @@
 
 I'm a **Senior AI/ML Engineer at Nielsen**, specializing in Data Science and Machine Learning across multiple domains. I build practical, production-ready solutions that drive real-world impact, play with data and try telling interesting stories through the data, research and learn about new technologies and develop new techniques to solve probles
 
-# What I Work On
+<h3>What I Work On </h3>
 
 **Classical Machine Learning**
 - Time series prediction and forecasting
