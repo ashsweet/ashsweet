@@ -7,6 +7,7 @@ I'm a **Senior AI/ML Engineer at Nielsen**, specializing in Data Science and Mac
 **Classical Machine Learning**
 - Time series prediction and forecasting
 - Clustering and Basic Statistics modelling like XGBoosting, LightGBM, KNN clustering, Random Forest and all
+- Time series and Prophet Modelling
 
 **Computer Vision**
 - Visual Cryptography implementation
