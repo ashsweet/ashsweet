@@ -32,6 +32,39 @@ I'm a **Senior AI/ML Engineer at Nielsen**, specializing in Data Science and Mac
 - Tableau
 - Cloud: AWS, GCP
 
+- Open-source research and documentation
+
+<h3>💡 Current Research</h3>
+
+**LatentGuard — Dynamically Steering Multilingual Safety Boundaries**
+
+An ongoing AI safety research project investigating whether safety behaviours learned primarily from English generalize reliably to Bengali.
+
+The work explores:
+- Behavioural safety evaluation
+- English–Bengali safety comparisons
+- Token fragmentation and refusal mismatches
+- Hidden-state and representation analysis
+- Cross-lingual representation drift
+- Latent steering and representation-level interventions
+
+The project was selected among the **Top 10 finalists of the Global South AI Safety Hackathon**.
+
+Research code and accompanying work are being developed openly.
+
+**Multilingual Representation Learning — MRL 2026**
+
+Actively contributing to the **2026 Multilingual Representation Learning benchmark**, including Bengali-English language data, with a focus on improving evaluation coverage for underrepresented languages.
+
+<h3>📚 Selected Research & Technical Work</h3>
+
+**Natural Language Inference (NLI) Research**
+- Investigated dataset artifacts and spurious correlations by fine-tuning ELECTRA-small on the SNLI dataset.
+- Designed interventions using expanded datasets to mitigate misclassification patterns and improve generalization.
+
+**Deep & Reinforcement Learning Systems**
+- Programmed autonomous vision-based and state-based Reinforcement Learning agents to navigate complex, real-time adversarial dynamics, such as automated SuperTuxKart competitive environments.
+
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -63,7 +96,10 @@ I'm a **Senior AI/ML Engineer at Nielsen**, specializing in Data Science and Mac
 
 - **Senior AI/ML Engineer** at Nielsen, driving innovation in data science and machine learning
 - Research-focused professional actively contributing to company research initiatives
+- Actively exploring **AI Safety, Multilingual NLP, Representation Learning and LLM research**
 - Passionate about staying at the forefront of AI/ML advancements
 - Experienced in deploying production-grade ML solutions
+- Interested in understanding model behaviour, evaluating failure modes, and developing robust ML systems
+- Open to collaborating on **research projects, publications, open-source research, and innovative ML solutions**
 
 **🌱 Open to collaborating on research projects, publications, and innovative ML solutions!**
